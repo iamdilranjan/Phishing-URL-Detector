@@ -1,0 +1,9 @@
+Flask
+tldextract
+idna
+kagglehub
+pandas
+scikit-learn
+joblib
+numpy
+scipy
